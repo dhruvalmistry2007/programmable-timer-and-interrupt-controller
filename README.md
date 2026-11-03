@@ -2,7 +2,7 @@
 
 <img src="P2B.png" alt="Programmable Timer and Interrupt Controller poster" width="800"/>
 
-<img src="header.png" alt="Programmable Timer and Interrupt Controller banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,60:78350f,100:fbbf24&height=240&section=header&text=Programmable%20Timer%20and%20Interrupt%20Controller&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SystemVerilog%20RTL%20Design%20-%20Digital%20VLSI%20and%20ASIC&descSize=18&descAlignY=58" alt="Programmable Timer and Interrupt Controller banner" width="100%"/>
 
 <b>A synthesizable, register-mapped programmable timer with overflow detection, automatic reload and maskable interrupt generation, written in SystemVerilog.</b>
 
@@ -635,5 +635,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,60:78350f,100:fbbf24&height=110&section=footer" alt="footer" width="100%"/>
 
 </div>
-
-
